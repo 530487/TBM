@@ -1,0 +1,15 @@
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\bin\Debug\net8.0\EasyDevOpsFrontend.exe
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\bin\Debug\net8.0\EasyDevOpsFrontend.deps.json
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\bin\Debug\net8.0\EasyDevOpsFrontend.runtimeconfig.json
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\bin\Debug\net8.0\EasyDevOpsFrontend.dll
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\bin\Debug\net8.0\EasyDevOpsFrontend.pdb
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.AssemblyInfoInputs.cache
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.AssemblyInfo.cs
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.csproj.CoreCompileInputs.cache
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.sourcelink.json
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.dll
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\refint\EasyDevOpsFrontend.dll
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.pdb
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\EasyDevOpsFrontend.genruntimeconfig.cache
+C:\Users\yasir\TBM\frontend\EasyDevOpsFrontend\obj\Debug\net8.0\ref\EasyDevOpsFrontend.dll
